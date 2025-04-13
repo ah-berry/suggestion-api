@@ -1,6 +1,6 @@
 # Suggestion - API
 
-This is the backend/API of Suggestion - an OpenAI GPT 3.5 LLM-powered web application that suggests helpful mental health guidance for a hypothetical patient facing challenge(s) [_Suggestion_](https://suggestion-ui.vercel.app/). The web backend/API of Suggestion is a deployed Docker container within an active Amazon Lambda serverless function that receives JSON POST requests from the frontend/UI of Suggestion (https://github.com/ah-berry/suggestion-ui).
+This is the backend/API of Suggestion - an OpenAI GPT 3.5 LLM-powered web application that suggests helpful mental health guidance for a hypothetical patient facing challenge(s) ([_Suggestion_]) (https://suggestion-ui.vercel.app/). The web backend/API of Suggestion is a deployed Docker container within an active Amazon Lambda serverless function that receives JSON POST requests from the frontend/UI of Suggestion (https://github.com/ah-berry/suggestion-ui).
 
 ## Table of Contents
 
